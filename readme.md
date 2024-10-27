@@ -76,7 +76,7 @@ To explore each project locally:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/frontend-foundations.git
+   git clone https://github.com/Nainee99/frontend-foundations.git
    ```
 2. Open the project folder in your preferred code editor (like VS Code).
 3. Open each project’s HTML file in your browser to see the designs.
